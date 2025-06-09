@@ -409,7 +409,7 @@ setupMobileMenu();
             margin: 0 auto;
         }
         .header-company img {
-            width: 50%;
+            width:54px;
             height: 6vh;
             display: block;
             margin: 0 auto;
